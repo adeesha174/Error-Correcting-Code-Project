@@ -1,9 +1,4 @@
 ︠b5ab93e7-0b31-45c3-ac2c-d7002d917a79︠
-# Written by:
-# Ofek Algarici, 314098971
-# Adee Shalit, 316554971
-# Shir Engel, 316524115
-
 
 import numpy as np
 from sage.all import *
